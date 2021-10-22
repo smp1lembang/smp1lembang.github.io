@@ -3,9 +3,16 @@
         <title>Blog</title>
         <link>http://example.org/</link>
         <description>Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 22 Oct 2021 23:41:46 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 22 Oct 2021 23:50:58 &#43;0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Kedua</title>
+    <link>http://example.org/posts/kedua/</link>
+    <pubDate>Fri, 22 Oct 2021 23:50:58 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/posts/kedua/</guid>
+    <description><![CDATA[ini yang kedua]]></description>
+</item><item>
     <title>Pertama</title>
     <link>http://example.org/posts/pertama/</link>
     <pubDate>Fri, 22 Oct 2021 23:41:46 &#43;0800</pubDate>

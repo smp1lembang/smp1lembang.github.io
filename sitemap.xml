@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/</loc><lastmod>2021-10-22T23:41:46&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2021-10-22T23:50:58&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/kedua/</loc><lastmod>2021-10-22T23:50:58&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2021-10-22T23:50:58&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/pertama/</loc><lastmod>2021-10-22T23:41:46&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2021-10-22T23:41:46&#43;08:00</lastmod></url><url>
             <loc>http://example.org/categories/</loc></url><url>
             <loc>http://example.org/tags/</loc></url></urlset>
